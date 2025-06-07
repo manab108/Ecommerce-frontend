@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "image": "/product1.jpg",
+    "secondImage": "/product1.jpg",
+    "Productname": "AirRunner Sneakers",
+    "price": "$89.00",
+    "tag": "New"
+  },
+  {
+    "id": 2,
+    "image": "/product2.jpg",
+    "secondImage": "/product2.jpg",
+    "Productname": "UrbanFlex Trainers",
+    "price": "$65.00",
+    "oldprice": "$80.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 3,
+    "image": "/product3.jpg",
+    "secondImage": "/product3.jpg",
+    "Productname": "Comfort Walk Loafers",
+    "price": "$72.00",
+    "tag": "New"
+  },
+  {
+    "id": 4,
+    "image": "/product4.jpg",
+    "secondImage": "/product4.jpg",
+    "Productname": "Velocity Running Shoes",
+    "price": "$99.00",
+    "oldprice": "$120.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 5,
+    "image": "/product5.jpg",
+    "secondImage": "/product5.jpg",
+    "Productname": "StreetStyle Canvas Shoes",
+    "price": "$58.00",
+    "oldprice": "$75.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 6,
+    "image": "/product6.jpg",
+    "secondImage": "/product6.jpg",
+    "Productname": "Classic Leather Boots",
+    "price": "$110.00"
+  },
+  {
+    "id": 7,
+    "image": "/product1.jpg",
+    "secondImage": "/product1.jpg",
+    "Productname": "AirRunner Sneakers",
+    "price": "$89.00",
+    "tag": "New"
+  },
+  {
+    "id": 8,
+    "image": "/product2.jpg",
+    "secondImage": "/product2.jpg",
+    "Productname": "UrbanFlex Trainers",
+    "price": "$65.00",
+    "oldprice": "$80.00",
+    "tag": "Sale"
+  }
+]
