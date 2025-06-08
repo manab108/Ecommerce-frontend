@@ -1,16 +1,13 @@
 {
   "name": "ecommerce-frontend",
   "private": true,
-  "homepage": "https://manab108.github.io/Ecommerce-frontend",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^19.1.0",
